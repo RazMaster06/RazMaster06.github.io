@@ -1,7 +1,9 @@
 body{
-    background-color: gold;
+    background-color: hotpink;
 }
 p {
 color: blue;
-
+}
+div{
+    text-align: center;
 }
