@@ -24,7 +24,8 @@ class JokeHandlerRequest {
 
         return joke_string;
     }
-}//End of Class
+}
+//End of Class
 
 //Starta Program
 const jokebutt = document.getElementById("jokebutton");
